@@ -16,7 +16,7 @@ inputs:
   sonar_token:
     required: true
     type: string
-
+ 
 runs:
   using: "composite"
   steps:
